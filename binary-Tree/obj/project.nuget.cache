@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vNFI6TIFuLgvz0MlP0oK5SThdgz2s+u5IAcAk21VtQoF9g8vpDMggWdWVOOKjjgrJINt60ft9SNNn0M007UL3A==",
+  "success": true,
+  "projectFilePath": "/run/media/samuel/OS/Users/Samuel/OneDrive/NSCS/binary-Tree/binary-Tree/binary-Tree.csproj",
+  "expectedPackageFiles": [
+    "/home/samuel/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
